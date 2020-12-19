@@ -1,0 +1,5 @@
+---- proc revisa_precio_con_comision----
+Numero de filas modificadas :3
+
+---- proc revisa_precio_con_comision----
+Ningun cambio en los datos de la tabla contiene.

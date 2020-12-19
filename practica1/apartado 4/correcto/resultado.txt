@@ -1,0 +1,109 @@
+---- proc DATOS_CLIENTES ----
+---- proc pedidos_clientes_tot ----
+dni: 1        
+nombre: Cristhian           
+apellido: Rodriguez Gomez     
+calle: Emilio              
+numero: 2
+piso: 3    
+localidad: Madrid              
+codigo postal: 28012
+teléfono: 626223879
+usuario: cristhro
+El cliente con dni: 1        no tiene pedidos
+---- proc pedidos_clientes_tot ----
+dni: 12345678M
+nombre: Francisco           
+apellido: GarcÃ­a SiÃ±eriz    
+calle: Tembleque           
+numero: 78
+piso: BJ-A 
+localidad: Madrid              
+codigo postal: 12346
+teléfono: 789345312
+usuario: Nopass  
+cod: 7
+fecha Pedido: 15/02/09
+fecha Entrega: 15/02/09
+estado: CANCEL   
+importe total: 76,96
+cod: 6
+fecha Pedido: 16/02/09
+fecha Entrega: 16/02/09
+estado: RECHAZADO
+importe total: 0
+cod: 5
+fecha Pedido: 17/02/09
+fecha Entrega: 17/02/09
+estado: REST     
+importe total: 0
+importe total del cliente: 76,96
+---- proc pedidos_clientes_tot ----
+dni: 12345678N
+nombre: Pedro               
+apellido: PÃ©rez              
+calle: Torralba            
+numero: 29
+piso: 4-B  
+localidad: Madrid              
+codigo postal: 12345
+teléfono: 676856753
+usuario: 12345612
+cod: 4
+fecha Pedido: 15/02/09
+fecha Entrega: 15/02/09
+estado: ENTREGADO
+importe total: 22,58
+cod: 3
+fecha Pedido: 16/02/09
+fecha Entrega: 16/02/09
+estado: ENTREGADO
+importe total: 31,68
+cod: 2
+fecha Pedido: 17/02/09
+fecha Entrega: 17/02/09
+estado: REST     
+importe total: 48,3
+importe total del cliente: 102,56
+---- proc pedidos_clientes_tot ----
+dni: 12345679M
+nombre: Ã¿gata              
+apellido: Valle Dorado        
+calle: Gallur              
+numero: 78
+piso: 3-A  
+localidad: LeganÃ©s            
+codigo postal: 28224
+teléfono: 676856743
+usuario: agata   
+cod: 8
+fecha Pedido: 15/02/09
+fecha Entrega: 15/02/09
+estado: CANCEL   
+importe total: 13,01
+importe total del cliente: 13,01
+---- proc pedidos_clientes_tot ----
+dni: 45678901Y
+nombre: MarÃ­a              
+apellido: Jorda Lorente       
+calle: Leiva               
+numero: 1
+piso: 4-I  
+localidad: MÃ³stoles           
+codigo postal: 78945
+teléfono: 666123456
+usuario: mari    
+cod: 10
+fecha Pedido: 15/02/09
+fecha Entrega: 15/02/09
+estado: ENTREGADO
+importe total: 45,36
+cod: 9
+fecha Pedido: 16/02/09
+fecha Entrega: 16/02/09
+estado: RUTA     
+importe total: 0
+importe total del cliente: 45,36
+-----------------------------
+La suma de todos los pedidos 
+de todos los clientes es: 237,89

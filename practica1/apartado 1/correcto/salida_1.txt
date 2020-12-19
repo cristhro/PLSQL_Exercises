@@ -1,0 +1,43 @@
+---- proc pedido cliente ----
+dni: 12345678M
+nombre: Francisco           
+apellido: GarcÃ­a SiÃ±eriz    
+calle: Tembleque           
+numero: 78
+piso: BJ-A 
+localidad: Madrid              
+codigo postal: 12346
+teléfono: 789345312
+usuario: Nopass  
+cod: 7
+fecha Pedido: 15/02/09
+fecha Entrega: 15/02/09
+estado: CANCEL   
+importe total: 10
+cod: 6
+fecha Pedido: 16/02/09
+fecha Entrega: 16/02/09
+estado: RECHAZADO
+importe total: 25
+cod: 5
+fecha Pedido: 17/02/09
+fecha Entrega: 17/02/09
+estado: REST     
+importe total: 34,25
+suma de pedidos: 69,25
+
+---- proc pedido cliente ----
+dni: 1        
+nombre: Cristhian           
+apellido: Rodriguez Gomez     
+calle: Emilio              
+numero: 2
+piso: 3    
+localidad: Madrid              
+codigo postal: 28012
+teléfono: 626223879
+usuario: cristhro
+El cliente con dni: 1        no tiene pedidos
+
+---- proc pedido cliente ----
+DNI NO EXISTENTE

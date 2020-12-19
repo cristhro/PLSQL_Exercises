@@ -1,0 +1,2 @@
+La transaccion es la misma y al final del procedimiento unicamente quedan insertados
+los tres primeros pedidos pues los tres ultimos son eliminados al hacer el rollback.

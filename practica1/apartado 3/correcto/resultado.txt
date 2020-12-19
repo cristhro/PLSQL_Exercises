@@ -1,0 +1,5 @@
+---- proc revisa_pedido----
+Numero de filas modificadas :9
+
+---- proc revisa_pedido----
+Ningun cambio en los datos de la tabla Pedidos.
